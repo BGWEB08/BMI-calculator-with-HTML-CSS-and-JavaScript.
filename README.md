@@ -12,4 +12,4 @@ This project provides a BMI (Body Mass Index) calculator with a user-friendly in
 ## Demo
 
 ![BMI Calculator Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/BMI%20Calculator/bm%C4%B1calculator-img.png?raw=true)
-![BMI Calculator Image]([https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Calculator/calculator-img.png?raw=true](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/BMI%20Calculator/bm%C4%B1calculator-img-2.png?raw=true)https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/BMI%20Calculator/bm%C4%B1calculator-img-2.png?raw=true)
+![BMI Calculator Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/BMI%20Calculator/bm%C4%B1calculator-img-2.png?raw=true)
