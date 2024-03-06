@@ -4,10 +4,11 @@ This project provides a BMI (Body Mass Index) calculator with a user-friendly in
 
 ## Features
 
-- BMI Hesaplama:** Kullanıcının boy ve kilo girişine göre BMI'yi hesaplar.
-- İnteraktif Arayüz:** Kullanıcıların boy ve kilolarını girmeleri için interaktif bir form sağlar.
-- Gerçek Zamanlı Sonuç:** Kullanıcıya anında geri bildirim sağlayarak BMI sonucunu girdikten sonra anında görüntüler.
-- Sonuçlar:** Kolay yorumlama için BMI kategorilerini (zayıf, normal kilolu, aşırı kilolu ve obez) belirtir.
+- **BMI Calculation:** Calculates the BMI based on the user's input of height and weight.
+- **Interactive Interface:** Provides an interactive form for users to input their height and weight.
+- **Real-Time Result:** Displays the BMI result instantly upon input, providing immediate feedback to the user.
+- **Results:** Kolay yorumlama için BMI kategorilerini (zayıf, normal kilolu, aşırı kilolu ve obez) belirtir.
+
 
 ## Demo
 
