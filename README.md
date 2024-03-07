@@ -9,7 +9,6 @@ This project provides a BMI (Body Mass Index) calculator with a user-friendly in
 - **Real-Time Result:** Displays the BMI result instantly upon input, providing immediate feedback to the user.
 - **Indicates BMI categories (underweight, normal and overweight) for easy interpretation.
 
-
 ## Demo
 
 ![BMI Calculator Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/BMI%20Calculator/bm%C4%B1calculator-img.png?raw=true)
