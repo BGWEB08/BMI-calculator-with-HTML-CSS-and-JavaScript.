@@ -7,7 +7,7 @@ This project provides a BMI (Body Mass Index) calculator with a user-friendly in
 - **BMI Calculation:** Calculates the BMI based on the user's input of height and weight.
 - **Interactive Interface:** Provides an interactive form for users to input their height and weight.
 - **Real-Time Result:** Displays the BMI result instantly upon input, providing immediate feedback to the user.
-- **Results:** Highlights BMI categories (underweight, normal, overweight, and obese) with different colors for easy interpretation.
+- **Indicates BMI categories (underweight, normal and overweight) for easy interpretation.
 
 
 ## Demo
